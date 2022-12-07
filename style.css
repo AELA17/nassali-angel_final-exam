@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+ul{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 20px;
+
+}
+ul li{
+    list-style-type: none;
+    
+
+}
+ul li a{
+    text-decoration: none;
+    font-weight: bolder;
+    padding: 17px;
+    border-radius: 14px;
+    background-color:gold;
+
+}
